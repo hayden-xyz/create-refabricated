@@ -1,0 +1,74 @@
+### Last Updated: 10.07.2026 / 13:03
+### Modpack Version: v0.1-beta
+
+- [3d\-Skin\-Layers](https://modrinth.com/mod/zV5r3pPn) [1\.11\.2] by tr7zw
+- [Anvian's Lib](https://modrinth.com/mod/PuTjrq4T) [1\.4\.1] by anvian
+- [AppleSkin](https://modrinth.com/mod/EsAfCjCV) [3\.0\.10\+mc26\.2] by squeek502
+- [AsyncParticles](https://modrinth.com/mod/c3onkd5k) [26\.2\.1\.0\-beta\.1] by Harvey\_Husky
+- [BBE](https://modrinth.com/mod/ONZm0H7Y) [1\.3\.6\+mc26\.2] by ceeden
+- [BadOptimizations](https://modrinth.com/mod/g96Z4WVZ) [2\.4\.1] by Thosea
+- [Better Clouds](https://modrinth.com/mod/5srFLIaK) [1\.14\.0\+26\.2\-fabric] by Qendolin, orangishcat
+- [Better Statistics Screen](https://modrinth.com/mod/n6PXGAoM) [5\.4\.2\+neoforge\-26\.2] by TheCSDev
+- [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) [1\.2\.4] by dzwdz, Fourmisain
+- [ChatAnimation](https://modrinth.com/mod/DnNYdJsx) [1\.3\.0] by Ezzenix
+- [Cloth Config v26\.2](https://modrinth.com/mod/9s6osm5g) [26\.2\.155] by shedaniel
+- [Clumps](https://modrinth.com/mod/Wnxd13zP) [26\.2\.1] by Jaredlll08
+- [Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q) [0\.4\.2\-alpha\.0\.12\+26\.2] by RelativityMC, ishland
+- [Continuity](https://modrinth.com/mod/1IjD5062) [3\.0\.1\+26\.2] by PepperCode1
+- [Controlling](https://modrinth.com/mod/xv94TkTM) [26\.2\.2] by Jaredlll08
+- [CraterLib](https://modrinth.com/mod/Nn8Wasaq) [3\.1\.2] by HypherionSA
+- [Cubes Without Borders](https://modrinth.com/mod/ETlrkaYF) [4\.1\.0\+26\.2] by Kira\-NT
+- [Dark Loading Screen](https://modrinth.com/mod/h3XWIuzM) [1\.6\.19] by A5b84
+- [Debugify](https://modrinth.com/mod/QwxR6Gcd) [26\.2\.0\.0] by isXander
+- [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) [3\.11\.9] by juliand665, LostLuma
+- [Enchanting Infuser](https://modrinth.com/mod/ePv85y52) [26\.2\.0] by Fuzs
+- [Entity Model Features](https://modrinth.com/mod/4I1XuqiY) [3\.2\.6] by Traben
+- [Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) [7\.1\.1] by Traben
+- [EntityCulling](https://modrinth.com/mod/NNAgCjsB) [1\.10\.5] by tr7zw
+- [Euphoria Patcher](https://modrinth.com/mod/4H6sumDB) [1\.9\.3\-r5\.8\.1\-fabric] by SpacEagle17
+- [Fabric API](https://modrinth.com/mod/P7dR8mSH) [0\.154\.2\+26\.2] by FabricMC
+- [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL) [1\.13\.12\+kotlin\.2\.4\.0] by FabricMC
+- [Fast IP Ping](https://modrinth.com/mod/9mtu0sUO) [1\.0\.11] by Fallen\_Breath
+- [FerriteCore](https://modrinth.com/mod/uXXizFIs) [9\.0\.0] by malte0811
+- [Forge Config API Port](https://modrinth.com/mod/ohNO6lps) [26\.2\.1] by Fuzs
+- [Gamma Utils](https://modrinth.com/mod/wdLuzzEP) [3\.1\.0] by Sjouwer
+- [Geophilic](https://modrinth.com/mod/hl5OLM95) [3\.6] by bebebea\_loste
+- [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) [1\.16\.1\+26\.2] by RK\_01
+- [Iris](https://github.com/IrisShaders/Iris) [1\.11\.2\-snapshot\+mc26\.2\-local] by coderbot, IMS212, Justsnoopy30, FoundationGames
+- [Ixeris](https://modrinth.com/mod/p8RJPJIC) [4\.5\.2\+26\.2\-fabric] by decce
+- [Jade](https://modrinth.com/mod/nvQzSEkH) [26\.2\.9\+fabric] by Snownee
+- [Ksyxis](https://modrinth.com/mod/2ecVyZ49) [1\.4\.3] by VidTu
+- [Language Reload](https://modrinth.com/mod/uLbm7CG6) [1\.7\.7\+26\.2] by Jerozgen
+- [Lithium](https://modrinth.com/mod/gvQqBUqZ) [0\.25\.1\+mc26\.2] by JellySquid, 2No2Name
+- [Lithostitched](https://modrinth.com/mod/XaDC71GB) [1\.7\.13] by Apollo
+- [Log Cleaner](https://modrinth.com/mod/hwRo6mwQ) [1\.0\.0] by altrisi
+- [MixinTrace Unofficial TT Port](https://modrinth.com/mod/wkk60ci8) [2\.0\.0\+26\.1] by comp500, PumpkinXD
+- [Mod Menu](https://modrinth.com/mod/mOgUt4GM) [20\.0\.0] by Prospector, haykam821, gniftygnome, TerraformersMC
+- [ModernFix](https://modrinth.com/mod/TjSm1wrD) [5\.27\.19\-build\.1] by embeddedt
+- [More Chat History](https://modrinth.com/mod/8qkXwOnk) [2\.0\.0] by JackFred
+- [More Culling](https://modrinth.com/mod/51shyZVL) [1\.8\.0] by FX \- PR0CESS, 1Foxy2
+- [No Chat Reports](https://modrinth.com/mod/qQyHxfxd) [26\.2\-v2\.20\.1] by Aizistral
+- [No Resource Pack Warnings](https://modrinth.com/mod/6xKUDQcB) [1\.5\.0] by Space Walker
+- [NotEnoughAnimations](https://modrinth.com/mod/MPCX6s5C) [1\.12\.4] by tr7zw
+- [OptiGUI](https://modrinth.com/mod/JuksLGBQ) [2\.3\.0\-beta\.10\+26\.2] by opekope2
+- [Packet Fixer](https://modrinth.com/mod/c7m1mi73) [3\.3\.5] by TonimatasDEV
+- [Placeholder API](https://modrinth.com/mod/eXts2L7r) [3\.1\.0\-beta\.1\+26\.2] by Patbox
+- [Puzzles Lib](https://modrinth.com/mod/QAGBst4M) [26\.2\.0] by Fuzs
+- [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) [2\.2\.2\+mc26\.2] by FlashyReese
+- [RenderScale](https://modrinth.com/mod/Va8PJBFX) [1\.4\.0\-alpha\.4] by Zelo101
+- [Resource Pack Overrides](https://modrinth.com/mod/YsFycamt) [26\.2\.0] by Fuzs
+- [Resource Pack Profiles](https://modrinth.com/mod/l6drnlXq) [v1\.0\.0\+26\.2] by ZephByte
+- [Resourcify](https://modrinth.com/mod/RLzHAoZe) [1\.8\.4] by DeDiamondPro
+- [ScalableLux](https://modrinth.com/mod/Ps1zyz6x) [0\.3\.0\-alpha\.0\.3\+26\.2] by Spottedleaf, ishland
+- [Searchables](https://modrinth.com/mod/fuuu3xnx) [1\.0\.1] by Jaredlll08
+- [Sodium](https://modrinth.com/mod/AANobbMI) [0\.9\.1\-beta\.3\+mc26\.2] by JellySquid \(jellysquid3\)
+- [Sodium Extra](https://modrinth.com/mod/PtjYWJkn) [0\.9\.1\+mc26\.2] by FlashyReese
+- [Sodium Extra Information](https://modrinth.com/mod/696WgnvT) [2\.9\.0] by anvian
+- [Sodium Shadowy Path Blocks](https://modrinth.com/mod/EIa1eiMm) [7\.0\.0] by Rynnavinx
+- [TCDCommons API](https://modrinth.com/mod/Eldc1g37) [5\.4\.1\+neoforge\-26\.2] by TheCSDev
+- [Tax Free Levels](https://modrinth.com/mod/jCBrrLTs) [1\.5\.4] by Fourmisain
+- [Tectonic](https://modrinth.com/mod/lWDHr9jE) [3\.0\.26] by Apollo
+- [Universal Enchants](https://modrinth.com/mod/DT56YDir) [26\.2\.0] by Fuzs
+- [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) [3\.9\.5\+26\.2\-fabric] by isXander
+- [Zoomify](https://modrinth.com/mod/w7ThoJFB) [2\.16\.1\+26\.2] by isXander
+- [essential\-container](https://modrinth.com/mod/k2ZPuTBm) [1\.0\.0]
