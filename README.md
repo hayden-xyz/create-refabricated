@@ -1,7 +1,7 @@
 ## Installing the Modpack manually:
 1. Download the latest version
    - **[Create: Refabricated](https://modrinth.com/project/96OPxNw4/versions)**
-   - **[Vanilla+]()**
+   - **[Vanilla+](https://github.com/hayden-xyz/my-modpacks/releases/latest)**
 2. Create a new instance in Prism
 3. Select the "Import" tab and then click on browse
 4. Select the file you just downloaded and click on okay (or press enter)
