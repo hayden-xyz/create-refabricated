@@ -7,7 +7,6 @@
 - [AsyncParticles](https://modrinth.com/mod/c3onkd5k) [26\.2\.1\.0\-beta\.1] by Harvey\_Husky
 - [BBE](https://modrinth.com/mod/ONZm0H7Y) [1\.3\.6\+mc26\.2] by ceeden
 - [BadOptimizations](https://modrinth.com/mod/g96Z4WVZ) [2\.4\.1] by Thosea
-- [Baritone](https://github.com/cabaletta/baritone) [26\.2\-SNAPSHOT] by leijurv, Brady
 - [Better Clouds](https://modrinth.com/mod/5srFLIaK) [1\.14\.0\+26\.2\-fabric] by Qendolin, orangishcat
 - [Better Statistics Screen](https://modrinth.com/mod/n6PXGAoM) [5\.4\.2\+neoforge\-26\.2] by TheCSDev
 - [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) [1\.2\.4] by dzwdz, Fourmisain
@@ -36,7 +35,6 @@
 - [Geophilic](https://modrinth.com/mod/hl5OLM95) [3\.6] by bebebea\_loste
 - [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) [1\.16\.1\+26\.2] by RK\_01
 - [Iris](https://github.com/IrisShaders/Iris) [1\.11\.2\-snapshot\+mc26\.2\-local] by coderbot, IMS212, Justsnoopy30, FoundationGames
-- [Iris](https://github.com/IrisShaders/Iris) [1\.11\.2\+mc26\.2] by coderbot, IMS212, Justsnoopy30, FoundationGames
 - [Ixeris](https://modrinth.com/mod/p8RJPJIC) [4\.5\.2\+26\.2\-fabric] by decce
 - [Jade](https://modrinth.com/mod/nvQzSEkH) [26\.2\.9\+fabric] by Snownee
 - [Ksyxis](https://modrinth.com/mod/2ecVyZ49) [1\.4\.3] by VidTu
@@ -70,9 +68,7 @@
 - [TCDCommons API](https://modrinth.com/mod/Eldc1g37) [5\.4\.1\+neoforge\-26\.2] by TheCSDev
 - [Tax Free Levels](https://modrinth.com/mod/jCBrrLTs) [1\.5\.4] by Fourmisain
 - [Tectonic](https://modrinth.com/mod/lWDHr9jE) [3\.0\.26] by Apollo
-- [Terralith](https://modrinth.com/mod/8oi3bsk5) [2\.6\.4] by Starmute, catter1, Apollo, TheKingWhale
 - [Universal Enchants](https://modrinth.com/mod/DT56YDir) [26\.2\.0] by Fuzs
-- [Voxy](https://modrinth.com/mod/fxxUqruK) [0\.2\.17\-alpha] by Cortex
 - [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) [3\.9\.5\+26\.2\-fabric] by isXander
 - [Zoomify](https://modrinth.com/mod/w7ThoJFB) [2\.16\.1\+26\.2] by isXander
 - [essential\-container](https://modrinth.com/mod/k2ZPuTBm) [1\.0\.0]
